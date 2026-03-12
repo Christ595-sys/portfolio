@@ -59,7 +59,7 @@ export default function About({ t }) {
                   <img
                     src="/Profile.png"
                     alt="Chris Sabbak"
-                    className="h-full w-full object-cover object-middle"
+                    className="h-full w-full object-cover object-[center_10%]"
                   />
               </div>
 

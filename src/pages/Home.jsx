@@ -114,7 +114,7 @@ export default function Home({ t }) {
                   <img
                     src="/Profile.png"
                     alt="Chris Sabbak"
-                    className="h-full w-full object-cover object-center"
+                    className="h-full w-full object-cover object-[center_10%]"
                   />
               </div>
 
