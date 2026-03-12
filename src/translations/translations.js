@@ -59,7 +59,7 @@ const translations = {
     focusLabel: "Focus",
     emailLabel: "Email",
     locationLabel: "Location",
-    locationValue: "Zahle, Lebanon",
+    locationValue: "Beirut, Lebanon",
     roleValue: "Full Stack Software Developer",
     focusValue: "Web Development",
 

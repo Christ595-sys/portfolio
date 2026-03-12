@@ -57,7 +57,7 @@ export default function About({ t }) {
           <div className="glass rounded-[2rem] p-8">
             <div className="mb-4 h-72 overflow-hidden rounded-[1.5rem] border border-white/10">
                   <img
-                    src="/Profile.jpeg"
+                    src="/Profile.png"
                     alt="Chris Sabbak"
                     className="h-full w-full object-cover object-middle"
                   />
