@@ -12,7 +12,9 @@ export default function Navbar({ language, setLanguage, t }) {
       : "text-slate-300 hover:text-white transition";
 
   return (
+    
     <header className="sticky top-0 z-50 border-b border-white/10 bg-[#07111f]/80 backdrop-blur-xl">
+      <br></br>
       <div className="section-container flex items-center justify-between py-4">
         <Link to="/" className="text-lg font-bold tracking-wide">
           Chris <span className="text-sky-400">Sabbak</span>
