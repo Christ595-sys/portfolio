@@ -110,9 +110,9 @@ export default function Home({ t }) {
               transition={{ duration: 0.9 }}
               className="glass soft-shadow rounded-[2rem] p-6"
             >
-              <div className="mb-4 h-72 overflow-hidden rounded-[1.5rem] border border-white/10">
+              <div className="mb-4 h-100 overflow-hidden rounded-[1.5rem] border border-white/10">
                   <img
-                    src="/Profile.png"
+                    src="/Profile (New).jpeg"
                     alt="Chris Sabbak"
                     className="h-full w-full object-cover object-[center_10%]"
                   />
